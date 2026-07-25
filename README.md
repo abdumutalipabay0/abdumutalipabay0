@@ -22,8 +22,8 @@ I'm a 17-year-old developer focused on understanding how AI can solve useful pro
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdumutalipabay0&amp;theme=tokyonight" alt="GitHub profile statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdumutalipabay0&amp;theme=tokyonight" alt="Top languages by repository" />
+  <img width="49%" src="./profile/stats.svg" alt="GitHub profile statistics" />
+  <img width="49%" src="./profile/languages.svg" alt="Top languages by repository" />
 </p>
 
 <p align="center">
