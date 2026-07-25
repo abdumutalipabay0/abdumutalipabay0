@@ -1,6 +1,6 @@
 <svg width="340" height="187" viewBox="0 0 340 187" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">GitHub Stats</title>
-  <desc id="desc">0 stars, 34 commits, 0 pull requests, 0 issues, contribution rank C, and 140 contributions since March 2026.</desc>
+  <desc id="desc">0 stars, 38 commits, 0 pull requests, 0 issues, contribution rank C, and 4 public repositories.</desc>
   <style>
     .title { font: 600 18px "Segoe UI", Ubuntu, sans-serif; fill: #0066FF; }
     .label { font: 600 9px "Segoe UI", Ubuntu, sans-serif; fill: #8B949E; letter-spacing: 0.08em; }
@@ -16,7 +16,7 @@
   <text x="20" y="85" class="value">0</text>
 
   <text x="118" y="62" class="label">COMMITS</text>
-  <text x="118" y="85" class="value">34</text>
+  <text x="118" y="85" class="value">38</text>
 
   <text x="20" y="108" class="label">PULL REQUESTS</text>
   <text x="20" y="131" class="value">0</text>
@@ -29,5 +29,5 @@
   <text x="277" y="148" text-anchor="middle" class="label">CONTRIBUTION RANK</text>
 
   <line x1="20" y1="150" x2="207" y2="150" stroke="#1F2937" />
-  <text x="20" y="174" class="footer">140 contributions · since Mar 2026</text>
+  <text x="20" y="174" class="footer">4 public repos · active since Mar 2026</text>
 </svg>
