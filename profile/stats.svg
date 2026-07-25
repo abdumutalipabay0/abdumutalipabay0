@@ -1,15 +1,33 @@
+<svg width="340" height="200" viewBox="0 0 340 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">0 stars, 34 commits, 0 pull requests, 0 issues, contribution rank C, and 140 contributions since March 2026.</desc>
+  <style>
+    .title { font: 600 18px "Segoe UI", Ubuntu, sans-serif; fill: #0066FF; }
+    .label { font: 600 9px "Segoe UI", Ubuntu, sans-serif; fill: #8B949E; letter-spacing: 0.08em; }
+    .value { font: 700 20px "Segoe UI", Ubuntu, sans-serif; fill: #C9D1D9; }
+    .rank { font: 700 30px "Segoe UI", Ubuntu, sans-serif; fill: #C9D1D9; }
+    .footer { font: 500 11px "Segoe UI", Ubuntu, sans-serif; fill: #8B949E; }
+  </style>
 
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#0D1117" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #0066FF }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#0D1117" stroke="#0066FF"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
-  
+  <rect x="0.5" y="0.5" width="339" height="199" rx="8" fill="#0D1117" stroke="#0066FF" />
+  <text x="20" y="31" class="title">GitHub Stats</text>
+
+  <text x="20" y="62" class="label">TOTAL STARS</text>
+  <text x="20" y="85" class="value">0</text>
+
+  <text x="118" y="62" class="label">COMMITS</text>
+  <text x="118" y="85" class="value">34</text>
+
+  <text x="20" y="116" class="label">PULL REQUESTS</text>
+  <text x="20" y="139" class="value">0</text>
+
+  <text x="118" y="116" class="label">ISSUES</text>
+  <text x="118" y="139" class="value">0</text>
+
+  <circle cx="277" cy="101" r="41" stroke="#0066FF" stroke-width="5" />
+  <text x="277" y="111" text-anchor="middle" class="rank">C</text>
+  <text x="277" y="158" text-anchor="middle" class="label">CONTRIBUTION RANK</text>
+
+  <line x1="20" y1="160" x2="207" y2="160" stroke="#1F2937" />
+  <text x="20" y="182" class="footer">140 contributions · since Mar 2026</text>
+</svg>
