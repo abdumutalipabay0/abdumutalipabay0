@@ -1,7 +1,7 @@
-<h1 align="center">ML Engineer</h1>
+<h1 align="center">ML Engineer · low battery, high curiosity</h1>
 
 <p align="center">
-  <img src="./assets/snorlax.jpg" width="420" alt="Snorlax taking it easy" />
+  <img src="./readme-assets/snorlax-rain.jpg" width="480" alt="Snorlax and Pikachu sharing a rainy moment" />
 </p>
 
 <p align="center">
@@ -9,5 +9,8 @@
   <sub>Data Science &amp; AI student at KBTU</sub>
 </p>
 
-- **ML engineering** — ML engineer at a state-owned company
+- **Work** — ML engineer at a state-owned company
 - **Robotics** — building cool shit
+- **Runtime** — train model → stare at loss → snack → repeat
+
+<p align="center"><sub>currently optimizing for fewer bugs and more naps :3</sub></p>
