@@ -10,4 +10,4 @@
 </p>
 
 - **ML engineering** — ML engineer at a state-owned company
-- **Robotics** — building cool things
+- **Robotics** — building cool shit
